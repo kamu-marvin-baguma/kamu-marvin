@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
 
-I'm Kamu marvin Baguma, a fullstack software developer and also Learning Javascript Front end at Kanzu Code Foundation, very passionate about technology and how we can use it to innovate solutions for the good of humanity.
+I'm Kamu marvin Baguma, a fullstack software developer and also Learning Javascript Front end at Kanzu Code Foundation, very passionate about technology and how we can use it to innovate solutions for the good of humanity on a global market.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma)](https://github.com/anuraghazra/github-readme-stats)
