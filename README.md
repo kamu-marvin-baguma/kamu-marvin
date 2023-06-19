@@ -1,15 +1,10 @@
-# Hi there
-###Designs and Development
-<h1 align="center">Hi 👋, I'm Kamu Marvin Kaguma</h1>
+<h1 align="center">Hi 👋, I'm Kamu Marvin Baguma</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamu-marvin-baguma" alt="kamu-marvin-baguma" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/marvinbaguma3" target="blank"><img src="https://img.shields.io/twitter/follow/marvinbaguma3?logo=twitter&style=for-the-badge" alt="marvinbaguma3" /></a> </p>
+I'm Kamu marvin Baguma, a fullstack software developer and also Learning Javascript Front end at Kanzu Code Foundation, very passionate about technology and how we can use it to innovate solutions for the good of humanity.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamu-marvin-baguma&" alt="kamu-marvin-baguma" /></p>
 
-
-I'm Kamu marvin Baguma, a fullstack software developer and also Learning Javascript Front end at Kanzu Code Foundation, very passionate about technology and how we can use it to innovate solutions for the good of humanity.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma)](https://github.com/anuraghazra/github-readme-stats)
